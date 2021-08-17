@@ -38,7 +38,8 @@ patExtraAodEventContent = [
     'keep recoGenParticles_genParticles*_*_*',
     'keep GenEventInfoProduct_*_*_*',
     'keep GenRunInfoProduct_*_*_*',
-    # RECO
+    # RECO 
+    #test
     'keep recoTracks_generalTracks*_*_*',
     'keep *_offlineBeamSpot_*_*',
     'keep *_offlinePrimaryVertices*_*_*',
